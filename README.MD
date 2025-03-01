@@ -29,7 +29,6 @@ The script performs the following tasks:
 ## Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/Rockazim/vertex-funding-rates.git
    cd vertex-funding-rates
