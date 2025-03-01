@@ -29,16 +29,17 @@ The script performs the following tasks:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rockazim/vertex-funding-rates.git
-   cd vertex-funding-rates
-   ```
+
+```bash
+git clone https://github.com/Rockazim/vertex-funding-rates.git
+cd vertex-funding-rates
+```
 2. install the required library using pip:
 
-  ```bash
-  pip install requests
-  ```
+```bash
+pip install requests
+```
 3. Run the Python script
-  ```bash
-  python vertex.py
-  ```
+```bash
+python vertex.py
+```
